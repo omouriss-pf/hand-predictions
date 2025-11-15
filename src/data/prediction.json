@@ -1,0 +1,9 @@
+{
+  "match": {
+    "team1": "Germany",
+    "team2": "France",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBFxNaAvlYucIzA-qJz0kj43OmQ-EeTyF4UsMEj3S3AJdPOk5z1p35rOMHKhHowWFms3XPOtNlLqNylnk8gY_ATCukHCck-bpogfJxvT0mnV527omvadHWEB_VJ97FuXLh7v4Up9BLepTMRpF3vxGozXdHGbOjUVZyMwQyW7SLz_wDn_Z5nmucUb9ppvVikJrCQtZZwHFJ3f7V5Hy52KlLI5InhxX1sdhYWTxLo7kLBzH66Lng2wZdXWQTxLZlioi_nPATXoBekGk8"
+  },
+  "prediction": "France",
+  "betType": "Winner"
+}

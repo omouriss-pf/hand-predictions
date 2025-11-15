@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "league": "Champions League",
+    "datetime": "Today, 18:45",
+    "team1": {
+      "name": "THW Kiel",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuC4CDz65ckLY4Dpo080DcCM-xkT413Mn92sICisMEsIHJ9OBX9Q8bsb2A5LRC8sTSE3hVtUP1SlZbe8Qa1ktM9YUsE1kM87WSwputVLDwuxmM3x6gQEoUATwRKy6ZJVQQfcTTSSY3RNcUU9uLs8V5Es_iDtVaeZdOHSv_xNZF-nxC15eyt3TOKe_t3uEuIRLk3rSv8c7eVhy_lMGfy3Vup2-_91JMq_QY8pVhVqLg0lN6GL6FYG758papoHMwvG1e7Opzq4kM91LC4"
+    },
+    "team2": {
+      "name": "FC Barcelona",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuAvYkUNLrH5ZfspuseEtq16v7Rja3l2bk288sy4e5BoCMA_Zj_zEU41-MFpWZgmrbYjAH9YijmubC2wM7yC_5beLT28w7eQA3o8WDAS564uATIasy1HEj2EeaOHuKFD486gXr98gfHBzg-lDyNAPmdwaFSWdKIhMzvC5nAaicdfWfmERs3wWKcugyXvGTeQvo2JGGXwCEk95kbKQt34K75mt90fLun2dbDJurKNNM4OiZHwofoiMoM-4HjRHeDqAoCLniqGK2dsXbY"
+    },
+    "odds": {
+      "win1": 1.85,
+      "draw": 8.00,
+      "win2": 2.25
+    }
+  },
+  {
+    "id": 2,
+    "league": "Bundesliga",
+    "datetime": "Today, 20:30",
+    "team1": {
+      "name": "Füchse Berlin",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuAZL7BtF3JgjcYcT9PaB7xUSPGa2BQFcgi5Y1iTEtJXV_SMYJVK-7osRWNr7sy89fBN9uSh8_yDy8z6iiONPn0nVsdKv14gcoju8aW6kY_LuDbGoO4pyDAZwNAiLzLDy0mKpvjSMMSNQWMmcvp9-z85aOhFzquAwhaq5nQFR93pNDfPYKBvNr0W71nLTMGynkUHCNtd1SgUodbqP1vwPXnft32o-MUIxLvf4OjCWU7FU1ZzWSAgCLd-2sdH9FKvLOftlQsP2z8xeYw"
+    },
+    "team2": {
+      "name": "SG Flensburg",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDo4V2D0Yvz8IfwN-GTfOGrHznwoVem-3FGtVc63RGgaYQk1ona5DUxpqDHnD1HG2EOPvTrppiqxfr5YeA660lnk-8OGIz37d8QtSF_AAQdChQ3Frv5uEwpUuADcajwJXGFuCIlhTHlMU4CbAi-xuEmjJeChgIE-KX-m6IUKBybdVLV2vbt_xpdtVDwwTowSyeTRROQdmBOyvRvhfqh_sxuNnHZREOSWIEjw0RkAALiDkCKtYflIDWEQdwORx8kEUdzeI-UinoiDKM"
+    },
+    "odds": {
+      "win1": 1.50,
+      "draw": 9.50,
+      "win2": 3.10
+    }
+  },
+  {
+    "id": 3,
+    "league": "LNH Division 1",
+    "datetime": "Tomorrow, 19:00",
+    "team1": {
+      "name": "PSG",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuBRA1YnHrOlibDPVmI0DbwQ0wuS-NallITnF7GJ23iRmnHQldZYrzg4Q-uqRmwFCaeZrKuJ_t2MnK0B6ZJIzfb8QO9OpRmE9bxgx9SBMKONQbq6vQC9wjGxNNfUtnabiQu2riQNjgGCvmNd6dbVRMS8G3VE5l5fS320Lo1GKGXYWIE32WH7JHRSsd52l890gjy3-QNpJiNZbkQYkzATSDJpGAn2yBF21wT_3r4oue2tRiR6Fepqw--DUD0OCaxBOkfg4VhmViLrDb0"
+    },
+    "team2": {
+      "name": "Montpellier",
+      "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuAx7Mfa9v1b5HkH5S699KIqFW4gHvTlaVWknyucs_VqwEnJKj5vDpqznu-VMo-ZMsx5TP3Li3433oD5zV5plUxPvIpf5ckRoHR1irXym11Do3m2fqU-OGLicFnWvZ5gdVFPaV3J_ra7toX5hmRq3YtICPRGt7sgQyrQD8dPgCy0hj2iUDYBbGRvGQoq36RHU8nMK8Ip9LQYNUAtS52Qf_awR1n-uilZMCpkxWba1O3OQA0VvnMeO2Ip18D6lKCEf7cDY2CRzwaJSJc"
+    },
+    "odds": {
+      "win1": 1.20,
+      "draw": 12.00,
+      "win2": 5.50
+    }
+  }
+]

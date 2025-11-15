@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "netProfitLoss": "1.25 ETH",
+    "netProfitLossPercentage": "+5.8%",
+    "totalWagered": "15.8 ETH",
+    "totalWageredPercentage": "+12.1%",
+    "winRate": "62%",
+    "winRatePercentage": "-1.5%",
+    "activeBets": "8",
+    "activeBetsChange": "+2 this week"
+  },
+  "activeBets": [
+    {
+      "id": 1,
+      "team1": {
+        "name": "THW Kiel",
+        "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNOLHOxgrRMOP0e-u-Npzv5NfAgyv97EBKscw-dwCvEsfdbFDnzf_Kn59g8MRRgyZSQzFEI9UX65eXwfpD029UZJhdZ2_qZLBT-gN7t-TShVQsMYk77pj6iIC3ZlnBeSE0YlDdorMp3P9OTNMlpfuZhiO4aS9B_8eJ_bM5TzA8IAxpyrywld7C2UWU46ne-NPpOo7NZgsZljYwkyzsYuN16RJmcUYcdY9zxViHrE-Fg0cXYvs6bnuuDLiG9Rzt6DH2obETitwHTMA"
+      },
+      "team2": {
+        "name": "Barça",
+        "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuALFr4TXoi86PmFC6-zq_w3_cDvc7VxyjBE0hJu15OeLZq0m9cSLrHGhJcRdS9Qj7E-b2OZqEocmtAdMY8mc6qvu9Q-OYiIAXfHfSm5DNLqwp92u4c1NriNv33q-Ze2HRWPLrnhoTJ_s3LNbK1BYXIa5oQoYvrQn1wOoxSHOlrhKxKp6rrauBTTm3xMIlO1UbVW6ibklA1Vl8La9tZEEX0UxcSozsOcmj7RXaJHyrNXjgpR1OHaEWA9lwcjLoxYjyqUc0OUXPQNJuw"
+      },
+      "betType": "Moneyline",
+      "wager": "0.5 ETH",
+      "payout": "1.2 ETH",
+      "status": "Pending",
+      "datetime": "Today, 20:45"
+    },
+    {
+      "id": 2,
+      "team1": {
+        "name": "PSG Handball",
+        "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDW5DBI7PhaITmxQE6E_nlRwFlVMJOrtTTz2UidwmKTZgikjSQ8crG_r5ISUPAik9hL6Imc2892dwGaRzEN28mwCReFfPF8XUMNrHVykZ3hngirMlSwWYhauPV_qiC099GWAoJthy3es2EGRetbs6ltzFgezv7CuvGlsAWsVq8lT0M3opYAqXP3GbxfCv9ql1qVTAKdIjDxDwlJdEHlQlmi3UeAU6132GdaaxT7hvjTj8smn3vjQ-yqgafO4irFYNldBLHmBrcO8zA"
+      },
+      "team2": {
+        "name": "Aalborg",
+        "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuADAzyQ5VnlsTRV6pqp7ZOVPAmtGssyFQ08Ao4uXYKEnY9py8WJ_tOIGstc1nurJwAKNoLu04rX-mZ3mp8epOtqwUMljCQDmSpjCnX8pH5FLIM-iB8P3-E1UKQzNsQ5j7exvHmFLUCQWHnyGX0rAw0uakmGlPr_Pf8qXGiejf8YJw1WN0H0N-Lq1kK3wqBJzwcjBF2uAEao0Jk50wrmFH89tBZDo9neRjEGjhJg8A6hDCLVWe0k8Wjg8LWojpz9ZO1HeyXTL0I6ZK8"
+      },
+      "betType": "Spread -2.5",
+      "wager": "150 USDC",
+      "payout": "285 USDC",
+      "status": "Pending",
+      "datetime": "Tomorrow, 18:00"
+    }
+  ]
+}
